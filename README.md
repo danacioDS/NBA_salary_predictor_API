@@ -1,2 +1,14 @@
-# NBA_salary_predictor_API
-sprint_002
+# Salary NBA Predictor API
+
+To run the services using compose:
+
+```bash
+$ docker-compose up --build -d
+```
+
+To stop the services:
+
+```bash
+$ docker-compose down
+```
+
